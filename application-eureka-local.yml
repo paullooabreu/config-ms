@@ -1,5 +1,5 @@
 server:
-  port: 8761  # Porta padrão para o Eureka Server
+  port: 8762  # Porta padrão para o Eureka Server
 
 eureka:
   client:
